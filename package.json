@@ -1,0 +1,18 @@
+{
+  "name": "dolly",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8",
+    "nunjucks": "^3.2.3",
+    "qs": "^6.10.3",
+    "solc": "^0.8.14-fixed"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.40",
+    "@types/nunjucks": "^3.2.1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "sourceName": "abc.sol",
+  "contractName": "abc",
+  "tokenSymbol": "ABC",
+  "payoutAddress": "",
+  "deployerAddress": "",
+  "constructorArgumentNames": [
+    "price",
+    "maxSupply",
+    "baseURIHash",
+    "freeMintLimitPerWallet",
+    "maxMintAmountPerTx",
+    "isSaleActive",
+    "freeMintIsAllowedUntil"
+  ],
+  "constructorArguments": [
+    7700000000000000,
+    7777,
+    "",
+    2,
+    50,
+    true,
+    7777
+  ],
+  "deployment": {
+    "gasPrice": "4000000000",
+    "network": "rinkeby",
+    "gasLimit": "2133134"
+  }
+}
